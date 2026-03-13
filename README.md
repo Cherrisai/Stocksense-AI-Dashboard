@@ -1,4 +1,4 @@
-# 📈 StockSense AI — Time Series Forecasting Dashboard
+# StockSense AI — Time Series Forecasting Dashboard
 
 > End-to-end stock market prediction system using ARIMA, LSTM & Prophet with an interactive Streamlit UI.
 
