@@ -41,7 +41,7 @@ stock_prediction/
 ## ⚙️ Installation
 
 ### 1. Clone the Repository
-```bash
+bash
 git clone https://github.com/yourname/stocksense-ai.git
 cd stocksense-ai
 ```
@@ -54,9 +54,9 @@ venv\Scripts\activate           # Windows
 ```
 
 ### 3. Install Dependencies
-```bash
+bash
 pip install -r requirements.txt
-```
+
 
 ### 4. Run Streamlit App
 ```bash
@@ -113,10 +113,7 @@ jupyter notebook notebooks/
 
 ## 🌐 Deployment
 
-Deploy free on **Streamlit Community Cloud**:
-1. Push to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect repo → set `app/streamlit_app.py` as entry point
+ http://localhost:8501
 
 ---
 
@@ -141,3 +138,5 @@ Any valid Yahoo Finance ticker: `AAPL`, `GOOGL`, `MSFT`, `TSLA`, `BTC-USD`, `ETH
 
 ## 📜 License
 MIT License — free for personal and commercial use.
+## Author
+by Sai vignesh
